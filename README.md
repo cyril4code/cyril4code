@@ -57,7 +57,7 @@
 
 ###
 
-<div aligh="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cyril4code&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cyril4code&&show_icons=true&title_color=E80F88&icon_color=ffffff&text_color=790252&bg_color=4C0033">
 </div>
 
