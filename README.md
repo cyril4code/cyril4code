@@ -1,7 +1,7 @@
 ### Vanakkam! I'm Cyril Lawrence 👋
 ## Welcome to my GitHub Profile 😁
 
-- 🔭 I’m currently working on Ienergizer IT Pvt Ltd
+- 🔭 I’m currently working on Amazon Development Centre Pvt Ltd
 - 🌱 I’m currently learning React JS and JavaScript
 - 👯 I’m looking to collaborate on React JS Projects
 - 🤔 I’m looking for help with 
